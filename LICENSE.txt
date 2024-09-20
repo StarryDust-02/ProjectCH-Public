@@ -1,6 +1,7 @@
 This Project Follows the Mozilla Public License Version 2.0, except for:
-1. I do not allow for commercial use, and
-2. Include the above disclaimer in any distrubutions.
+1. I do not allow selling this software,
+2. I do not allow this software for commercial use, and
+3. Include the above disclaimer in any distrubutions.
 
 This project uses various plugins by a variety of authors and groups,
 detailed credits are included in the zip releases.
